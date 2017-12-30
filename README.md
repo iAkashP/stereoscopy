@@ -11,9 +11,9 @@ some changes to be considered in the final equation:
 
 fin_dist=B*foc_len/(2*np.tan(fi/2)*D)
 
-B=distance between two cameras
-foc_len=focal length of cameras
-fi=FOV of camera
+B=distance between two cameras;
+foc_len=focal length of cameras;
+fi=FOV of camera;
 D=*already calculated
 
 ### for more information,refer:
